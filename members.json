@@ -1,0 +1,19 @@
+{
+  "members": [
+    {
+      "username": "Tankparsa",
+      "role": "Overseer",
+      "gradient": "YELLOW"
+    },
+    {
+      "username": "Veinew",
+      "role": "Executive",
+      "gradient": "AQUA"
+    },
+    {
+      "username": "SlimeDark",
+      "role": "Sr Administrator",
+      "gradient": "ORANGE"
+    }
+  ]
+}
