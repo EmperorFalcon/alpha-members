@@ -16,11 +16,6 @@
       "gradient": "ORANGE"
     },
     {
-      "username": "kings_name",
-      "role": "Administrator",
-      "gradient": "ORANGE"
-    },
-    {
       "username": "Its_Kiara89",
       "role": "Administrator",
       "gradient": "ORANGE"
@@ -57,6 +52,11 @@
     },
     {
       "username": "DARKA_YT",
+      "role": "Jr Helper",
+      "gradient": "PURPLE"
+    },
+     {
+      "username": "kings_name",
       "role": "Jr Helper",
       "gradient": "PURPLE"
     },
